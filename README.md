@@ -14,7 +14,7 @@
 
 - 💬 For more detail, please visit my CV. https://www.snowyuki31.com/about
 
-Thank you ⚡
+Thank you for your interest. ⚡
 
 ## Articles (Japanese)
 
