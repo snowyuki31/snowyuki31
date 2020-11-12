@@ -1,6 +1,6 @@
 # Hi, I'm Yuki (Snow) ☃️👋 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=snowyuki31?theme=prussian)
 
 [![hirono999](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhirono999)](https://atcoder.jp/users/hirono999)
 
