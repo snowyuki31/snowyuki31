@@ -16,6 +16,12 @@
 
 Thank you ⚡
 
+## Articles (Japanese)
+
+- Paper notification tool for lab slack https://qiita.com/snowyuki31/items/5c46b7870f2ae6958973
+
+- Techblog on my research @ Yahoo! Japan Research https://techblog.yahoo.co.jp/entry/2020091530016630/
+
 <!--
 **snowyuki31/snowyuki31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
