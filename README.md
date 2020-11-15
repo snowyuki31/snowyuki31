@@ -6,12 +6,12 @@
 
 - ⚗️ I'm a graduate student in a field related to chemometrics, microfluidics and biomedical engineering.
 
-- 🔭 I'm currently working on software development and MLOps through internship @ TRI-AD.
+- 🔭 I'm currently working on software development and MLOps through internship @ TRI-AD, and conducting research into ML @ Yahoo! Japan Research.
 
 - 🌱 I'm currently learning microservices architectures.
 
 - 😻 Love cats.
 
-- 💬 For more detail, please visit my <a href="https://www.snowyuki31.com/about">CV</a>, or <a href="https://www.snowyuki31.com/">website</a>.
+- 💬 For more detail, please visit my <a href="https://www.snowyuki31.com/about">CV</a> or <a href="https://www.snowyuki31.com/">website</a>.
 
 Thank you for your interest. ⚡
