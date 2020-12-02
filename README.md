@@ -6,7 +6,7 @@
 
 - ⚗️ I'm a graduate student in a field related to chemometrics, microfluidics and biomedical engineering.
 
-- 🔭 I'm currently working on software development and MLOps through internship @TRI-AD, and conducting research into ML @Yahoo! Japan Research.
+- 🔭 I'm currently working on software development (implementation of architecture for object recognition) through internship @TRI-AD, and conducting research into ML @Yahoo! Japan Research.
 
 - 🌱 I'm currently learning microservices architectures.
 
